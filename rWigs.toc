@@ -1,0 +1,11 @@
+## Interface: 80000
+## Author: Rehok
+## Version: 1.0
+## Title: |cff0088eerWigs|r
+## Notes: Skin for BigWigs based on MonoUI
+## LoadOnDemand: 1
+## Dependencies: BigWigs, BigWigs_Core, BigWigs_Plugins
+## LoadWith: BigWigs_Plugins
+
+rWigs.lua
+ 
