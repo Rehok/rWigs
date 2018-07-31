@@ -1,3 +1,5 @@
+#rWigs
+
 Adds a Style to BigWigs called RehokUI and is based on Mono UI but more pixel perfect based.
 
 Changes from Mono UI to Rehok UI:
